@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class camMove : MonoBehaviour
 {
+    //comment
     public float moveSpeed = 10f;
     public float rotateSpeed = 1f;
 
